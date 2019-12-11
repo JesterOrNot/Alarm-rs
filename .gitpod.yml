@@ -7,4 +7,4 @@ ports:
   - port: 6080
   - port: 5900
 tasks:
-  - init: cargo install
+  - init: cargo install --path .
