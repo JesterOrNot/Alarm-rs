@@ -11,3 +11,4 @@ ports:
 
 tasks:
   - init: cargo install --path .
+    command: alarm_rs
